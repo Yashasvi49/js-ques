@@ -112,3 +112,93 @@
 // }
 
 //17
+
+// var daynum = +prompt("Enter Daynumber(1-7)")
+// if(daynum == 1){
+// console.log("monday")
+// }else if(daynum == 2){
+//   console.log("tuesday")
+//   }else  if(daynum == 3){
+//     console.log("wednesday")
+//     }else if(daynum == 4){
+//       console.log("thursday")
+//       }else if(daynum == 5){
+//         console.log("friday")
+//         }else if(daynum == 6){
+//           console.log("satday")
+//           }else   if(daynum == 7){
+//             console.log("sunday")
+//             }else {
+//               console.log("invalid")
+//             }
+        
+//18
+// const a = +prompt("Enter Number 1");
+// const b = +prompt("Enter Number 2");
+// const c = +prompt("Enter Number 3");
+
+// if(a>b && a>c) {
+//   console.log("a is greater among")
+// }else if(b>c && b>a) {
+//   console.log("b is greater among")
+// }else {
+//   console.log("c is greater among")
+
+// }
+
+// //19
+// let year = +prompt("Year?");
+// if ((year % 4 ==0 && year % 100 != 0)||year % 400 == 0) {
+//   console.log("leap year")
+// }else {
+//   console.log("not a leap year")
+  
+// }
+
+// 22
+// let alphabet = prompt("alphabet?");
+// if (alphabet == "a"||alphabet == "e"||alphabet == "i"||alphabet == "o"||alphabet == "u"){
+//   console.log('vowel')
+// }else {
+//   console.log("consonant")
+// }
+
+
+    //  23
+//     let n = +prompt("n")
+//     for (let i = 0; i < n; i++) {
+// console.log("hello world!!!")      
+//     } 
+    
+    
+  
+//  24
+// const naturalnum = prompt("enter any number ");
+// for (let index = 0; index <= naturalnum; index++) {
+//   console.log(index);
+// }
+  
+// 25
+// const n = prompt("enter any number ");
+// for (let index = n; index >= 0; index--) {
+//   console.log(index);
+// }  
+
+// 27
+// const n = +prompt("enter a radom number");
+// for (let index = 0; index < n; index++) {
+//   const sum = (n*(n+1))/2;
+//   console.log(sum)
+  
+// }
+
+// 26
+// const n = +prompt("enter a radom number");
+// for (let index = 1; index <= 10; index++) {
+//   let table = `${n} X ${index} = ${n*index}`
+//   console.log(table)
+// }
+
+// 28
+ 
+
