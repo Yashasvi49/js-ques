@@ -199,6 +199,28 @@
 //   console.log(table)
 // }
 
-// 28
+// 29
+// let n = 20;
+// let evensum = 0;
+// let oddsum = 0 ;
+// for(i = 0 ; i <= n ; i++){
+//    if (i % 2 == 0) {
+//     evensum += i;
+//    } else {
+//     oddsum += i ;
+//    }
+// }
+// console.log(evensum)
+// console.log(oddsum)
+
+// 28(not checked)
+let n = 5;
+for (i = 0 ; i = n; i++){
+  var factorial = 0 ;
+  factorial *= i;
+   
+}
+console.log(n)
+
  
 
